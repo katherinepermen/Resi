@@ -496,6 +496,7 @@ th {
     word-wrap: break-word;
     overflow-wrap: break-word;
     max-width: 100%;
+    max-width: 300px;
 }
 
 /* Description specific styles */
